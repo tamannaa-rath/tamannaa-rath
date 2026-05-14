@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>B.Tech in Artificial Intelligence | ML & FinTech Enthusiast | Aspiring AI Engineer</b><br>
-  <b>Building 14 ML projects in 15 days | Preparing for top tech internships (2025–26)</b><br>
 </p>
 
 ---
