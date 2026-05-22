@@ -1,4 +1,4 @@
-<h1 align="center">𐙚 𝐻𝑒𝓎, 𝐼'𝓂 𝒯𝒶𝓂𝒶𝓃𝓃𝒶! ✧</h1>
+<h1 align="center">𐙚 Hey I'm Tamanna! ✧</h1>
 
 <p align="center">
   <b>B.Tech in Artificial Intelligence | NIT Rourkela</b><br>
