@@ -1,4 +1,6 @@
-<h1 align="center">𐙚 Hey I'm Tamanna! ✧</h1>
+<h1 align="center"> <img width="3437" height="477" alt="Sweet" src="https://github.com/user-attachments/assets/3e2c62c2-370b-4d40-b52b-f6c00ed2654d" />
+
+ </h1>
 
 <p align="center">
   <b>B.Tech in Artificial Intelligence | NIT Rourkela</b><br>
